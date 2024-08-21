@@ -12,6 +12,7 @@
 !*.pdf
 !*.odt
 !/*
+!*.R
 !.gitignore
 !README.md
 !*.txt
