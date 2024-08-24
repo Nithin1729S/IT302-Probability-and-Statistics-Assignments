@@ -1,1 +1,1 @@
-Course Instructor: Santanu Dey
+Course Instructor: Mr. Santanu Dey
